@@ -31,3 +31,15 @@ Further, we also learned how to use parentheses to influence order of operations
 We also called to the math class to use the square root function.
 We also pulled apart and put together strings using the replace function as well as others.
 All in all, it was a good week.
+
+---
+# End of Fourth Week
+## 9/29/17
+
+We experimented with flow control this week, learning the ins and outs of if statements.
+Though I already know the concepts of flow control, I learned the specific calls to use within the Python language.
+Further, I experimented (separately from the rest of the class) with the while loop.
+As a class we learned how to utilize a nested if structure.
+Using if statements, we created a very simple guessing game.
+Within the game, if you guessed lower than the actual number, it would tell you you guessed too low, and similarly for if you guessed higher or if you guessed correctly.
+We also created a simple login program where the user would 'log in' if they typed in the correct username and password combination.
