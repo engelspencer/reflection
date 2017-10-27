@@ -43,3 +43,14 @@ As a class we learned how to utilize a nested if structure.
 Using if statements, we created a very simple guessing game.
 Within the game, if you guessed lower than the actual number, it would tell you you guessed too low, and similarly for if you guessed higher or if you guessed correctly.
 We also created a simple login program where the user would 'log in' if they typed in the correct username and password combination.
+
+---
+# End of Seventh and Eighth Week
+## 10/27/17
+
+Last week we began working with loops.
+We created several programs that looped several times with both the while and for structures.
+Mr. Gold pushed on us that technically we now have all the tools necessary to make whatever we want with just the basics, loops, and if statements.
+However, we will learn other useful things that make our programs cleaner and shorter, even though we can accomplish tasks without them.
+We created a multiplication table and had the computer output both strong and armstrong numbers in some of our programs.
+This week we worked on the homework due next Friday which all has to do with flow control, especially iteration.
