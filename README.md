@@ -54,3 +54,16 @@ Mr. Gold pushed on us that technically we now have all the tools necessary to ma
 However, we will learn other useful things that make our programs cleaner and shorter, even though we can accomplish tasks without them.
 We created a multiplication table and had the computer output both strong and armstrong numbers in some of our programs.
 This week we worked on the homework due next Friday which all has to do with flow control, especially iteration.
+
+---
+# End of Ninth Week
+## 11/3/17
+
+Last week we were given homework based around iteration and general flow control.
+We worked on this homework most of the week.
+I had finished the majority of the homework last week, so Monday I spent helping Boas with problem 4.
+I was drawing a blank on problem 5, so I put it off for the time being and I don't think I will finish it before it is due today.
+That is okay though, because of the 5 problems we only had to complete 3 of them, while the other 2 were extra credit.
+On Thursday we began exploring functions which we will delve further into next week.
+Already being a programmer I am sufficiently aware of what functions are and how to use them, so I expect to be helping the other cadets figure them out in the coming week as this concept tends to be a little mind-boggling to those who have not been introduced to them before.
+Overall, a good week.
