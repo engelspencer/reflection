@@ -67,3 +67,16 @@ That is okay though, because of the 5 problems we only had to complete 3 of them
 On Thursday we began exploring functions which we will delve further into next week.
 Already being a programmer I am sufficiently aware of what functions are and how to use them, so I expect to be helping the other cadets figure them out in the coming week as this concept tends to be a little mind-boggling to those who have not been introduced to them before.
 Overall, a good week.
+
+---
+#End of Nth Week
+##12/1/17
+
+We began working with Raspberry Pi units this week.
+After taking a few days to set them up, we began working with the Sense Hat add-ons.
+The Sense Hat is a plug&play 8x8 pixel screen.
+To program the screen, you must instantiate a SenseHat object in python, and use the set_pixels function to show colors on the screen.
+The colors and lights of the screens are determined by lists that contain three values, corresponding to RGB values.
+Afterwards, the input to the set_pixels function is a list of 64 of the RGB lists, each RGB list corresponding to a different pixel on the 8x8 screen on the sense hat.
+Additionally, you can animate pictures you make with the sense hat by putting them in an infinite loop and using time.sleep in between set_pixels function calls, using each time you call to it as a different version of the picture effectively animating it.
+Overall, this is a really fun project.
