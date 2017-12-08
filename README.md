@@ -80,3 +80,13 @@ The colors and lights of the screens are determined by lists that contain three 
 Afterwards, the input to the set_pixels function is a list of 64 of the RGB lists, each RGB list corresponding to a different pixel on the 8x8 screen on the sense hat.
 Additionally, you can animate pictures you make with the sense hat by putting them in an infinite loop and using time.sleep in between set_pixels function calls, using each time you call to it as a different version of the picture effectively animating it.
 Overall, this is a really fun project.
+
+---
+#End of Another Week
+## 12/8/17
+
+I made a lot of progress on my Tamagachi, but sadly, my code was lost two days ago.
+I remember all of the logic behind having created the program, but I need to spend time recreating the animations from scratch.
+Additionally, I am completely revising my idea for a Google Friday project.
+I either want to create a 1v1 chess game or make a mini-game addon for my tamagachi.
+The Tamagachi is a Pikachu, and I would have the player shoot lightning bolts at various incoming team rocket balloons.
