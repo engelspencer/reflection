@@ -69,8 +69,8 @@ Already being a programmer I am sufficiently aware of what functions are and how
 Overall, a good week.
 
 ---
-#End of Nth Week
-##12/1/17
+# End of Nth Week
+## 12/1/17
 
 We began working with Raspberry Pi units this week.
 After taking a few days to set them up, we began working with the Sense Hat add-ons.
@@ -82,7 +82,7 @@ Additionally, you can animate pictures you make with the sense hat by putting th
 Overall, this is a really fun project.
 
 ---
-#End of Another Week
+# End of Another Week
 ## 12/8/17
 
 I made a lot of progress on my Tamagachi, but sadly, my code was lost two days ago.
@@ -90,3 +90,16 @@ I remember all of the logic behind having created the program, but I need to spe
 Additionally, I am completely revising my idea for a Google Friday project.
 I either want to create a 1v1 chess game or make a mini-game addon for my tamagachi.
 The Tamagachi is a Pikachu, and I would have the player shoot lightning bolts at various incoming team rocket balloons.
+
+---
+# End of the Last Full Week Before Break!
+## 12/15/17
+
+Last week I lost my progress on the Tamagachi project and hadn't had a lot of time to catch up.
+The tamagachi was initially going to be a pikachu, but I decided to go a different route now that I had a clean slate.
+Now my tamagachi is the one they call Dovahkiin, Dragonborn!
+Other than the design of the animations, the core of the program is almost complete.
+I have an animation function, a while true loop to run through the program infinitely, and I have all of the flow control tools in place to control feeding and entertaining.
+Concerning the logic of the program, all I need to add is the flow control around death and the happiness and hunger levels that will determine death.
+When I add those two levels, I need to have them decrease slowly as the program continues to run, and I need them to be increased when fed and entertained.
+Other than the logic explained above, I only need to then finish creating all the animations themselves.
